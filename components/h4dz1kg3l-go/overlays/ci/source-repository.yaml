@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h4dz1kg3l-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/h4dz1kg3l-go
